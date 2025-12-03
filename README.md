@@ -1,2 +1,2 @@
-# trabajo big data olga paula y adriana
-
+# FinPlusAnalytics_TeamMontecarlo
+Trabajo final Fundamentos de Big Data
