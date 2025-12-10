@@ -16,4 +16,4 @@
 
 ## Total clientes analizados: 100
 
-Generado el: 2025-12-08 16:37:42
+Generado el: 2025-12-10 11:34:58
